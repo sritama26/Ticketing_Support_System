@@ -1,0 +1,16 @@
+@media (max-width: 640px) {
+  .page-content {
+    padding: 16px;
+  }
+
+  .navigation-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navigation-links,
+  .home-top-actions,
+  .action-row {
+    width: 100%;
+  }
+}

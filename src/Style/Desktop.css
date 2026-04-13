@@ -1,0 +1,6 @@
+@media (min-width: 1025px) {
+  .page-content {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+}
