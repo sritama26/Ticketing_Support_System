@@ -1,14 +1,14 @@
 # Ticketing System
 # Setup Instructions
 First, go to the project directory:
+
 cd ticketing-system
+
 In the project directory, run:
 ### `npm start`
 
 Runs the app in development mode.  
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-## Available Scripts
 
 In the project directory,  run:
 
