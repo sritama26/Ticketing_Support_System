@@ -2,9 +2,10 @@
 # Setup Instructions
 First, go to the project directory:
 
-cd ticketing-system
+cd Ticketing_Support_System-main
 
 In the project directory, run:
+### `npm i`
 ### `npm start`
 
 Runs the app in development mode.  
